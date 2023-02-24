@@ -1,0 +1,13 @@
+.cast-div{
+    display: flex;
+    width: 100%;
+    flex-wrap: nowrap;
+    gap: 2rem;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+.cast-img{
+    height: 30vh;
+    margin-right: 3vh;
+}
+
